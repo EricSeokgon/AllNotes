@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category">
+        <item>일상</item>
+        <item>회사</item>
+        <item>기타</item>
+    </array>
+</resources>

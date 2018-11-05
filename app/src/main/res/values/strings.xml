@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">모두 노트</string>
+    <string name="app_company">GON Inc</string>
+
+    <string name="button_register">등록</string>
+
+    <string name="msg_memo_input">메모를 입력해주세요</string>
+</resources>
